@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+    
+    
+  
+
+  
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/get-started/add-first-cluster.html</loc>
+      
+      <lastmod>2020-11-11T14:27:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/use/clone-apps.html</loc>
+      
+      <lastmod>2020-11-11T14:27:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/get-started/cloud-central.html</loc>
+      
+      <lastmod>2020-11-11T14:27:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/get-started/coming-soon.html</loc>
+      
+      <lastmod>2020-09-28T16:24:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/use/coming-soon.html</loc>
+      
+      <lastmod>2020-09-23T20:03:50+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/training/coming-soon.html</loc>
+      
+      <lastmod>2020-09-23T20:03:50+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/learn/coming-soon.html</loc>
+      
+      <lastmod>2020-09-23T20:03:50+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/solutions/database-best-practices.html</loc>
+      
+      <lastmod>2020-11-11T14:27:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/learn/define-custom-app.html</loc>
+      
+      <lastmod>2020-11-11T14:27:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/get-started/faq.html</loc>
+      
+      <lastmod>2020-11-11T14:27:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/get-started/gcp-create-project.html</loc>
+      
+      <lastmod>2020-11-11T14:27:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/get-started/gcp-create-service-account-browser.html</loc>
+      
+      <lastmod>2020-11-11T14:27:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/get-started/gcp-create-service-account-gcloud.html</loc>
+      
+      <lastmod>2020-11-11T14:27:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/support/get-help.html</loc>
+      
+      <lastmod>2020-11-11T14:27:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/</loc>
+      
+      <lastmod>2020-11-11T14:27:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/solutions/install-kubectl.html</loc>
+      
+      <lastmod>2020-09-23T20:03:50+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/get-started/intro.html</loc>
+      
+      <lastmod>2020-11-11T14:27:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/get-started/invitation.html</loc>
+      
+      <lastmod>2020-11-11T14:27:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/solutions/jenkins-deploy-from-helm-chart.html</loc>
+      
+      <lastmod>2020-11-11T14:27:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/get-started/join-beta.html</loc>
+      
+      <lastmod>2020-11-11T14:27:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/get-started/known-issues.html</loc>
+      
+      <lastmod>2020-11-11T14:27:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/get-started/known-limitations.html</loc>
+      
+      <lastmod>2020-11-11T14:27:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/legal-notices.html</loc>
+      
+      <lastmod>2020-11-11T14:27:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/use/manage-apps.html</loc>
+      
+      <lastmod>2020-11-11T14:27:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/use/manage-credentials.html</loc>
+      
+      <lastmod>2020-11-11T14:27:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/use/manage-notifications.html</loc>
+      
+      <lastmod>2020-11-11T14:27:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/use/manage-users.html</loc>
+      
+      <lastmod>2020-11-11T14:27:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/solutions/mariadb-deploy-from-helm-chart.html</loc>
+      
+      <lastmod>2020-11-11T14:27:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/solutions/mysql-deploy-from-helm-chart.html</loc>
+      
+      <lastmod>2020-11-11T14:27:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/solutions/mysql-mariadb-work-with-project-astra.html</loc>
+      
+      <lastmod>2020-11-11T14:27:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/solutions/postgres-deploy-from-helm-chart.html</loc>
+      
+      <lastmod>2020-11-11T14:27:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/solutions/postgres-work-with-project-astra.html</loc>
+      
+      <lastmod>2020-11-11T14:27:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/use/protect-apps.html</loc>
+      
+      <lastmod>2020-11-11T14:27:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/get-started/quick-start.html</loc>
+      
+      <lastmod>2020-11-16T20:08:29+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/support/register-support.html</loc>
+      
+      <lastmod>2020-11-11T14:27:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/use/remove-app-and-cluster.html</loc>
+      
+      <lastmod>2020-11-11T14:27:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/get-started/requirements.html</loc>
+      
+      <lastmod>2020-11-12T17:37:32+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/use/restore-apps.html</loc>
+      
+      <lastmod>2020-11-11T14:27:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/solutions/search.html</loc>
+      
+      <lastmod>2020-11-17T19:41:51+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/get-started/search.html</loc>
+      
+      <lastmod>2020-11-17T19:41:50+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/use/search.html</loc>
+      
+      <lastmod>2020-11-17T19:41:50+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/support/search.html</loc>
+      
+      <lastmod>2020-11-17T19:41:51+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/learn/search.html</loc>
+      
+      <lastmod>2020-11-17T19:41:51+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra//search.html</loc>
+      
+      <lastmod>2020-11-17T19:41:43+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/get-started/set-up-google-cloud.html</loc>
+      
+      <lastmod>2020-11-16T20:08:29+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/use/unmanage.html</loc>
+      
+      <lastmod>2020-11-11T14:27:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/learn/validated-vs-standard.html</loc>
+      
+      <lastmod>2020-11-11T14:27:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/get-started/videos.html</loc>
+      
+      <lastmod>2020-11-11T14:27:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/use/view-apps.html</loc>
+      
+      <lastmod>2020-11-11T14:27:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/use/view-clusters.html</loc>
+      
+      <lastmod>2020-11-11T14:27:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/use/view-dashboard.html</loc>
+      
+      <lastmod>2020-11-11T14:27:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/project-astra/get-started/whats-next.html</loc>
+      
+      <lastmod>2020-11-11T14:27:52+00:00</lastmod>
+      
+    </url>
+  
+
+  
+  
+</urlset>
